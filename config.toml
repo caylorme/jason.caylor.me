@@ -21,7 +21,7 @@ enableGitInfo = true
   keywords = "blog,developer,personal"
   #avatarurl = "images/avatar.jpg"
   gravatar = "jasoncaylor@gmail.com"
-  commit = true
+  commit = "https://github.com/caylorme/jason.caylor.me/commit"
 
 
 #   favicon_32 = "/img/favicon-32x32.png"
